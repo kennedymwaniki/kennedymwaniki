@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,typescript,Hono**
 
-- 📫 How to reach me **kennedymwaniki089@gmil.com**
+- 📫 How to reach me **kennedymwaniki089@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
